@@ -1,9 +1,13 @@
-# Friendfinder
+# Your Friend Finder
 
-Friend Finder - Node and Express Servers
+Friend Finder  is a full stack site that helps you find the best matched friend. The site takes the answers from your user survey and compares them with those of our users. 
+
+![screenshot 2019-10-25] (images/finder)
+
+### Your matched friend's name and picture will be displayed after you have completed the form. It is then up to you to reach out and connect with them
 
 
-Overview
+## Overview
 
 In this activity, you'll build a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 

@@ -24,7 +24,7 @@ var friendsArray = [{
 	"scores":[5, 5, 2, 2, 5, 2, 2, 5, 1, 5]
 }, {
 	"name":"Tupac",
-	"photo":"",
+	"photo":"https://peopledotcom.files.wordpress.com/2017/06/tupac-toc.jpg",
 	"scores":[3, 1, 3, 4, 4, 5, 2, 5, 1, 1]
 }, {
 	"name":"Jennelle",
