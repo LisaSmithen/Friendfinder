@@ -31,11 +31,11 @@ module.exports = function(app) {
     console.log("best person is " + friendsData[matchscore].name + " and best score is " + bestDifferent);
     console.log("-----------------------------");
 
-    // push in the user input into the friendArray
+   
     friendsData.push(req.body);
 
-    // respond back with the best match
+  
     res.json({name: friendsData[matchscore].name, photo: friendsData[matchscore].photo});
-    // res.json(true);
+  
 	});
 }
